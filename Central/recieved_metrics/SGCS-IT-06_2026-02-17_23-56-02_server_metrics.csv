@@ -1,0 +1,6 @@
+timestamp,server_name,cpu_percent,total_ram_gb,used_ram_gb,available_ram_gb,ram_percent,disk_info_json
+2026-02-13 00:00:02,SGCS-IT-06,39.5,5.91,5.1,2.81,64.5,"[{""device"": ""C:\\"", ""mountpoint"": ""C:\\"", ""total_gb"": 223.0, ""used_gb"": 128.56, ""free_gb"": 94.44}]"
+2026-02-13 00:20:02,SGCS-IT-06,3.1,7.91,3.03,4.88,63.6,"[{""device"": ""C:\\"", ""mountpoint"": ""C:\\"", ""total_gb"": 223.0, ""used_gb"": 128.56, ""free_gb"": 94.44}]"
+2026-02-13 00:40:03,SGCS-IT-06,23.3,7.91,5.03,2.88,63.6,"[{""device"": ""C:\\"", ""mountpoint"": ""C:\\"", ""total_gb"": 223.0, ""used_gb"": 128.56, ""free_gb"": 94.44}]"
+2026-02-13 01:00:02,SGCS-IT-06,2.7,7.91,5.08,7.83,64.2,"[{""device"": ""C:\\"", ""mountpoint"": ""C:\\"", ""total_gb"": 223.0, ""used_gb"": 128.56, ""free_gb"": 94.44}]"
+2026-02-13 01:20:02,SGCS-IT-06,3.1,7.91,5.15,6.76,65.1,"[{""device"": ""C:\\"", ""mountpoint"": ""C:\\"", ""total_gb"": 223.0, ""used_gb"": 1628.56, ""free_gb"": 94.44}]"

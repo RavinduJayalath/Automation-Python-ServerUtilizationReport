@@ -1,0 +1,24 @@
+2026-02-26 12:59:26,298 - INFO - Automation script started
+2026-02-26 12:59:26,395 - INFO - Weekly report generation successful
+
+2026-02-26 13:13:22,746 - INFO - Weekly report generation started
+2026-02-26 13:13:22,870 - ERROR - Weekly report generation failed: name 'EmailMessage' is not defined
+
+2026-02-26 13:14:46,057 - INFO - Weekly report generation started
+2026-02-26 13:14:46,229 - ERROR - Weekly report generation failed: name 'smtplib' is not defined
+
+2026-02-26 13:15:32,022 - INFO - Weekly report generation started
+2026-02-26 13:15:35,566 - INFO - Weekly report generation successful
+
+2026-02-26 14:29:11,830 - INFO - Weekly report generation started
+2026-02-26 14:29:16,680 - INFO - Weekly report generation successful
+
+2026-02-26 14:43:22,590 - INFO - Weekly report generation started
+2026-02-26 14:43:27,108 - INFO - Weekly report generation successful
+
+2026-02-26 14:47:30,777 - INFO - Weekly report generation started
+2026-02-26 14:47:35,344 - INFO - Weekly report generation successful
+
+2026-02-26 14:52:02,079 - INFO - Weekly report generation started
+2026-02-26 14:52:06,350 - INFO - Weekly report generation successful
+
